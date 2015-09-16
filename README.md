@@ -8,7 +8,7 @@
 
 ## `BOOL`
 
-A boolean is binary value expressed in Objective-C as the primitive type `BOOL` which can hold either `YES` or `NO` (true or false) values. Their primary use in programming is in decision making. Booleans are typically created as the result of some comparison or evaluation, and are then assessed to make a conditional choice in the program's behavior. Before discussing conditional flow control, it's important to have a solid understand of how booleans themselves operate.
+A boolean is binary value expressed in Objective-C as the primitive type `BOOL` which can hold either `YES` or `NO` (true or false) values. Their primary use in programming is in decision making. Booleans are typically created as the result of some comparison or evaluation, and are then assessed to make a conditional choice in the program's behavior. Before discussing conditional flow control, it's important to have a solid understanding of how booleans themselves operate.
 
 ```objc
 BOOL isYes = YES;
@@ -211,7 +211,7 @@ The rest of the reading is a quiz challenge about how booleans evaluate. Because
 
 ?: 18. `BOOL notYesAndNo = !(YES && NO);`
 
-( )`YES` (X)`NO`
+(X)`YES` ( )`NO`
 
 ?: 19. `BOOL oneIsOne = 1 == 1;`
 
@@ -281,7 +281,7 @@ The rest of the reading is a quiz challenge about how booleans evaluate. Because
 
 (X)`YES` ( )`NO`
 
-?: 36. `BOOL ponso = [[NSObject alloc] init];`
+?: 36. `BOOL ponsoExists = [[NSObject alloc] init];`
 
 (X)`YES` ( )`NO`
 
