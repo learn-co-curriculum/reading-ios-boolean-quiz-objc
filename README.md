@@ -1,4 +1,4 @@
-# `BOOL`eans
+# `BOOL`ean Quiz
 
 ## Objectives
 
