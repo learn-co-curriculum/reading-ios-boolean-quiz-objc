@@ -1,4 +1,4 @@
-# Boolean Quiz
+## Boolean Quiz
 
 ## Objectives
 
