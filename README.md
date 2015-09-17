@@ -134,7 +134,7 @@ BOOL ponsoExists = [[NSObject alloc] init];  // evaluates to YES
 
 ![](https://curriculum-content.s3.amazonaws.com/ios/ios-objc-fundamentals-unit/pity_the_bool.jpg)
 
-The rest of the reading is a quiz challenge about how booleans evaluate. Because there are only two values that a boolean can hold, there are two only choices for each question: `YES` and `NO`. Now think like a `BOOL`!
+The rest of the reading is a quiz challenge about how booleans evaluate. Because there are only two values that a boolean can hold, there are only two choices for each question: `YES` and `NO`. Now think like a `BOOL`!
 
 
 ???
