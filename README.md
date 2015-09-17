@@ -6,7 +6,7 @@
 2. Use the comparison operators which return `BOOL`s.
 3. Use the logical operators (`&&`, `||`, and `!`) to combine or invert `BOOL` values.
 
-## `BOOL`
+## BOOL
 
 A boolean is binary value expressed in Objective-C as the primitive type `BOOL` which can hold either `YES` or `NO` (true or false) values. Their primary use in programming is in decision making. Booleans are typically created as the result of some comparison or evaluation, and are then assessed to make a conditional choice in the program's behavior. Before discussing conditional flow control, it's important to have a solid understanding of how booleans themselves operate.
 
@@ -90,7 +90,7 @@ BOOL notYes = !YES;        // results to NO
 
 The following tables outline how each of the logical operators evaluate:
 
-##### Logical AND (`&&`)
+##### Logical AND ( && )
 
 | Condition A | Condition B | = | AND Result |
 |:-----------:|:-----------:|:-:|:----------:|
@@ -99,7 +99,7 @@ The following tables outline how each of the logical operators evaluate:
 | `YES`       | `NO`        | = | `NO`       |
 | `YES`       | `YES`       | = | `YES`      |
 
-##### Logical OR (`||`)
+##### Logical OR ( || )
 
 | Condition A | Condition B | = | OR Result |
 |:-----------:|:-----------:|:-:|:---------:|
@@ -108,7 +108,7 @@ The following tables outline how each of the logical operators evaluate:
 | `YES`       | `NO`        | = | `YES`     |
 | `YES`       | `YES`       | = | `YES`     |
 
-##### Logical NOT (`!`)
+##### Logical NOT ( ! )
 
 | Condition | = | NOT Result |
 |:---------:|:-:|:----------:|
@@ -130,7 +130,7 @@ BOOL emptyString = @"";     // evaluates to YES
 BOOL ponsoExists = [[NSObject alloc] init];  // evaluates to YES
 ```
 
-## Pity the `BOOL`
+## Pity the BOOL
 
 ![](https://curriculum-content.s3.amazonaws.com/ios/ios-objc-fundamentals-unit/pity_the_bool.jpg)
 
