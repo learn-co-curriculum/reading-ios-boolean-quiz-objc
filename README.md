@@ -1,4 +1,4 @@
-# `BOOL`ean Quiz
+# Boolean Quiz
 
 ## Objectives
 
