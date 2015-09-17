@@ -15,7 +15,7 @@ BOOL isYes = YES;
 BOOL isNo = NO;
 ```
 
-A `BOOL` can printed using an `NSLog()` with the format specifier `%d`:
+A `BOOL` can be printed using an `NSLog()` with the format specifier `%d`:
 
 ```objc
 NSLog(@"isYes: %d", isYes);
