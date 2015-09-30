@@ -24,7 +24,7 @@ NSLog(@"isNo: %d", isNo);
 
 ### Comparison Operators
 
-A boolean value is returned as the result of any of the six comparison operators in Objective-C: 
+A boolean value is returned as the result of any of the six comparison operators in Objective-C:
 
 | Comparison | Pronunciation              | Description |
 |:----------:|:---------------------------|:------------|
