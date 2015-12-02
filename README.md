@@ -287,3 +287,5 @@ The rest of the reading is a quiz challenge about how booleans evaluate. Because
 
 
 ???
+
+<a href='https://learn.co/lessons/reading-ios-boolean-quiz-objc' data-visibility='hidden'>View this lesson on Learn.co</a>
